@@ -2,6 +2,12 @@
 
 I'm a "fullstack developer" (ie. I like working in all parts of the stack) looking to work in necessary or interesting technologies. Always looking to have more 🦀 Rust in my life; it's scarce.
 
+I have worked with:
+ - Typescript / Javascript all around
+ - 3js / webGL
+ - React / Redux
+ - Golang
+
 <!--
 **rlecaro2/rlecaro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
